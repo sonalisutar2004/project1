@@ -1,0 +1,30 @@
+.table-container{
+    height:250px;
+    width: 230px;
+    box-sizing: border-box;
+    border: 1px black;
+}
+.small-table{
+    height:250px;
+    width: 230px;
+    box-sizing: border-box;
+    border: 2px red;
+}
+.small-table1{
+    height:250px;
+    width: 230px;
+    box-sizing: border-box;
+    border: 2px green;
+}
+.small-table2{
+    height:250px;
+    width: 230px;
+    box-sizing: border-box;
+    border: 2px blue;
+}
+.small-table3{
+    height:250px;
+    width: 230px;
+    box-sizing: border-box;
+    border: 2px hotpink;
+}
